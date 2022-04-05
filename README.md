@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kallakata
 - 👀 I’m interested in Cybersecurity, AI and emerging technologies overall
-- 🌱 I’m currently learning Restful API, honing my Python and bash scripting skills
+- 🌱 I’m currently learning how to build APIs, AWS infrastructure security and DevSecOps
 - 💞️ I’m looking to collaborate on any security-related project ;-)
 - 📫 You can reach me at Telegram - @Kallakata
 
