@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kallakata
-- 👀 I’m interested in Cybersecurity, AI and emerging technologies overall
-- 🌱 I’m currently learning how to build APIs, AWS infrastructure security and DevSecOps
-- 💞️ I’m looking to collaborate on any security-related project ;-)
-- 📫 You can reach me at Telegram - @Kallakata
+Hi, I’m kallakata.
+Currently I work as a DevSecOps Engineer at @CleverMaps with a keen interest in Cybersecurity, where I gained experience through penetration testing and automating compliance checks, along with securing both on-premise and cloud environment. Apart from expanding my horizons in this area, I naturally delved deep into cloud computing (predominantly AWS ecosystem), and cloud-native applications. This drove me to learn Go that I use to build APIs and highly available, decoupled microservices. My portfolio will consist mostly of DevOps tools and various security scripts intended for simplifying the tedious work of all the DevSecOps Engineers out there.
 
-<!---
-kallakata/kallakata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Whether you're looking for someone to collaborate with on security-related projects, or maybe kickstart some open-source tool, you can reach me at Telegram - @Kallakata
