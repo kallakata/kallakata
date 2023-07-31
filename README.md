@@ -1,4 +1,4 @@
-Hi, I’m kallakata.
+Hi, I’m @kallakata.
 
 I currently work as a DevOps Engineer at @GWI and @CleverMaps with a keen interest in cybersecurity, cloud security engineering, observability and automation (SRE), where I gained experience through penetration testing and automating compliance checks, along with securing both on-premise and cloud environments.
 
