@@ -6,4 +6,4 @@ Apart from expanding my horizons in this area, I naturally delved deep into clou
 
 Whether you're looking for someone to collaborate with on security or SRE-related projects, or maybe kickstart some open-source tool, you can reach me at Telegram - *@Kallakata*
 
-_Mastondon_ - **TBD**
+~ _Mastondon_ - **TBD** ~
