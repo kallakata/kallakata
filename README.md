@@ -1,4 +1,4 @@
-Hi, I’m **@kallakata**.
+Hi, I’m **@kallakata**. 
 
 I currently work as a Site Reliability Engineer at *@Ataccama* and *@CleverMaps* with a keen interest in cybersecurity, cloud security engineering, observability and automation (SRE), where I gained experience through penetration testing and automating compliance checks/application security tools, along with securing both on-premise and cloud environments. As of now, my primary focus is SRE & DevOps.
 
