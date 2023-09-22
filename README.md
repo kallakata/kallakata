@@ -1,6 +1,6 @@
 Hi, I’m **@kallakata**. 
 
-I currently work as a Site Reliability Engineer at *@Ataccama* with a keen interest in cybersecurity, cloud security engineering, observability, monitoring and automation, and overall anything related to infrastructure. As of now, my primary focus is SRE & DevOps, especially from platform engineering standpoint when managing hundreds of environments reliably is necessary.
+I currently work as a **Site Reliability Engineer** with a keen interest in cybersecurity, cloud security engineering, observability, monitoring and automation, and overall anything related to infrastructure. As of now, my primary focus is SRE & DevOps, especially from platform engineering standpoint when managing hundreds of environments reliably is necessary.
 
 Apart from expanding my horizons in this area, I naturally delved deep into cloud computing and infrastructure (predominantly AWS and GCP ecosystem), distributed systems (Kubernetes & orchestration), and cloud-native applications. This drove me to learn Golang, dabble in Rust and play with distributed tracing, all of which I use to build APIs and highly available, decoupled microservices along with internal tools for everyday use. I also try to embrace SRE principles and support/contribute to meaningful open-source initiatives.
 
