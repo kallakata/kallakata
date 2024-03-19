@@ -7,6 +7,5 @@ Apart from expanding my horizons in this area, I naturally delved deep into clou
 My portfolio will consist mostly of DevOps & SRE automation tools, and various scripts intended for simplifying the tedious work of all the engineers out there.
 
 Whether you're looking for someone to collaborate with on security or SRE-related projects, or maybe kickstart some open-source tool, you can reach me at ~ **Telegram** - *@Kallakata* ~
-.
 
 ~ _Mastondon_ - **TBD** ~
