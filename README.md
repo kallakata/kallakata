@@ -8,5 +8,4 @@ My portfolio will consist mostly of DevOps & SRE automation tools, and various s
 
 Whether you're looking for someone to collaborate with on security or SRE-related projects, or maybe kickstart some open-source tool, you can reach me at ~ **Telegram** or **Signal** - *@Kallakata* ~
 
-
 ~ _Mastondon_ - **TBD** ~
