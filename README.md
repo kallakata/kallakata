@@ -15,13 +15,15 @@ These days, my go-to languages in no particular order are usually:
 * **Python**
 * **C#**
 
+Lately, I have been dabbling in LLMs and various local machine learning models, as well as the whole ecosystem around them. 
+
 Whether you're looking for someone to collaborate with on a security or DevOps-related projects, or maybe kickstart some open-source tool, you can reach me at:
 
 ~ **Telegram** or **Signal** - *@Kallakata* ~
 
 ~ _Mastondon_ - **TBD** ~
 
-Or simple check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information!
+Or simply check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information!
 
 
 
