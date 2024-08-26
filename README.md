@@ -17,6 +17,10 @@ These days, my go-to languages in no particular order are usually:
 
 Lately, I have been dabbling in LLMs and various local machine learning models, as well as the whole ecosystem around them. 
 
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 Whether you're looking for someone to collaborate with on a security or DevOps-related projects, or maybe kickstart some open-source tool, you can reach me at:
 
 ~ **Telegram** or **Signal** - *@Kallakata* ~
