@@ -1,4 +1,6 @@
-![test4](https://github.com/user-attachments/assets/e27fbcb8-d324-47f4-a7c6-6800d928e13d)
+![wallhaven-gp7vk7](https://github.com/user-attachments/assets/29cce984-f5e0-4766-9ec6-cceffb7d0a1a)![test4](https://github.com/user-attachments/assets/e27fbcb8-d324-47f4-a7c6-6800d928e13d)
+
+![wallhaven-gp7vk7](https://github.com/user-attachments/assets/d1738ac8-3329-4dc3-9e2f-ca9a19e1f1bc)
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -27,7 +29,5 @@ Whether you're looking for someone to collaborate with on a security or DevOps-r
 
 
 Or simply check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information!
-
-
 
 
