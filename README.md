@@ -21,7 +21,7 @@ Whether you're looking for someone to collaborate with on a security or DevOps-r
 
 ~ **Telegram** or **Signal** - *@Kallakata* ~
 
-~ _Mastondon_ - **TBD** ~
+~ **Mastodon** - _**TBD**_ ~
 
 Or simply check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information!
 
