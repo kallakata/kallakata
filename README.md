@@ -1,4 +1,5 @@
-<img width="2427" height="1404" alt="image" src="https://github.com/user-attachments/assets/5475ab0d-0f72-4868-9cdc-af411903106f" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a4feecc8-5dfe-476a-92d7-425d63c7231e" />
+
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -31,7 +32,6 @@ Whether you're looking for someone to collaborate with on a security or DevOps-r
 
 
 Or simply check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information and profile!
-
 
 
 
