@@ -15,7 +15,7 @@ These days, my go-to languages in no particular order are usually:
 * **Python**
 * **C#**
 
-Lately, I have been dabbling in LLMs, MCPs, agents and various local machine learning models, as well as the surrounding ecosystem and different workflows around it. 
+Lately, I have been dabbling in LLMs, MCPs, agents and various local machine learning models, as well as the surrounding ecosystem and different workflows around it.
 
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -30,7 +30,7 @@ Whether you're looking for someone to collaborate with on a security or DevOps-r
 ![Screenshot 2024-08-26 173303](https://github.com/user-attachments/assets/5aab9b83-4310-4cd6-acdd-08d6afb86693)
 
 
-Or simply check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information!
+Or simply check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information and profile!
 
 
 
