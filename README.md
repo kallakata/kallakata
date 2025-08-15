@@ -1,6 +1,7 @@
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a4feecc8-5dfe-476a-92d7-425d63c7231e" />
 
 
+
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Hi, I’m **@kallakata**. 
@@ -32,7 +33,6 @@ Whether you're looking for someone to collaborate with on a security or DevOps-r
 
 
 Or simply check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information and profile!
-
 
 
 
