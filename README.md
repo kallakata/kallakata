@@ -8,7 +8,7 @@ Hi, I’m **@kallakata**! :wave:
 
 
 
-I currently work as a **Platform Engineer** at **@Veeam** with a keen interest in cybersecurity, penetration testing, observability/monitoring, Infrastracture-as-Code, and overall virtually anything related to managing infrastructure and large-scale automation. I also try to embed security mindset into whole process.
+I currently work as a **Platform Engineer** at 🔰 **@Veeam** with a keen interest in cybersecurity, penetration testing, observability/monitoring, Infrastracture-as-Code, and overall virtually anything related to managing infrastructure and large-scale automation. I also try to embed security mindset into whole process.
 
 As of now, my primary focus is SRE & DevOps, especially from platform engineering standpoint when managing dozens of environments reliably and securely is necessary. Predominantly in Azure using Terraform and Golang. Apart from my regular tech stack, I am broadening my knowledge in **C#/.NET** in Azure ecosystem, on-premise automation and **Pulumi**. 
 
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 Whether you're looking for someone to collaborate with on a security or DevOps-related projects, or maybe kickstart some open-source tool, you can reach me at:
 
-~ **Telegram** or **Signal** - *@Kallakata* ~
+~ **Telegram** or **Signal** - *@Kallakata* ~ :v:
 
 ~ **Mastodon** - _**TBD**_ ~
 
