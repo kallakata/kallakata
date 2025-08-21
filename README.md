@@ -35,7 +35,6 @@ Whether you're looking for someone to collaborate with on a security or DevOps-r
 
 
 
-
 Or simply check out my [**Linktree**](https://linktr.ee/pavelvarenka) for more contact information and profile!
 
 
