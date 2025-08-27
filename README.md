@@ -10,7 +10,7 @@ Hi, I’m **@kallakata**! :wave:
 
 I currently work as a **Platform Engineer** at **@Veeam** with a keen interest in cybersecurity, penetration testing, observability/monitoring, Infrastracture-as-Code, and overall virtually anything related to managing infrastructure and large-scale automation. I also try to embed security mindset into whole process.
 
-As of now, my primary focus is SRE & DevOps, especially from platform engineering standpoint when managing dozens of environments reliably and securely is necessary. Predominantly in Azure using Terraform and Golang. Apart from my regular tech stack, I am broadening my knowledge in **C#/.NET** in Azure ecosystem, on-premise automation and **Pulumi**. 
+As of now, my primary focus is SRE & DevOps, especially from platform engineering standpoint when managing dozens of environments reliably and securely is necessary. Predominantly in Azure using Terraform and Golang. Apart from my regular tech stack, I am broadening my knowledge in **C#/.NET** in Azure ecosystem, on-premise automation and **Pulumi**.
 
 Despite trying to understand the layers below the abstractions, my passion is aimed at cloud computing (_AWS, GCP & Azure_), distributed systems (_Kubernetes & orchestration_), infrastructure management (_Terraform & Pulumi_) and cloud-native applications along with their respective philosophy.
 
