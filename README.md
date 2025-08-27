@@ -20,8 +20,8 @@ These days, my go-to languages in no particular order are usually:
 * **Go** 
 * **Python**
 * **C#** 
-
-Lately, I have been dabbling in LLMs, MCPs, agents and various local machine learning models, as well as the surrounding ecosystem around it.  
+ 
+Lately, I have been dabbling in LLMs, MCPs, agents and various local machine learning models, as well as the surrounding ecosystem around it.   
 
  
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
