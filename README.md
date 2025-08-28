@@ -16,8 +16,8 @@ Despite trying to understand the layers below the abstractions, my passion is ai
 
 This drove me to learn _Golang_, dabble in _Rust_ and play with distributed tracing, all of which I use to build APIs and highly available, decoupled microservices along with internal tools for everyday use. I also try to embrace SRE principles, best practices, and support/contribute to meaningful open-source initiatives.
 
-These days, my go-to languages in no particular order are usually:        
-* **Go** 
+These days, my go-to languages in no particular order are usually:         
+* **Go**
 * **Python**
 * **C#** 
 
