@@ -19,7 +19,7 @@ This drove me to learn _Golang_, dabble in _Rust_ and play with distributed trac
 These days, my go-to languages in no particular order are usually:
 * **Go**
 * **Python**
-* **C#** 
+* **C#**
 
 Lately, I have been dabbling in LLMs, MCPs, agents and various local machine learning models, as well as the surrounding ecosystem around it.
 
